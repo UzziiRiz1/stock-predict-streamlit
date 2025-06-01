@@ -1,3 +1,5 @@
+import os
+os.system('pip install --upgrade pip')
 import streamlit as st
 import yfinance as yf
 import pandas as pd
